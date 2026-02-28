@@ -1,0 +1,848 @@
+MPPED2	interacts with	INOSITOL 2,4,5-TRISPHOSPHATE
+MPPED2	interacts with	CA2+
+MPPED2	interacts with	IP3
+MPPED2	interacts with	ADENOPHOSTIN A
+MPPED2	interacts with	DECAVANADATE
+NEK2	interacts with	CYC-116
+NEK2	interacts with	NVP-TAE684
+NEK2	interacts with	PALBOCICLIB
+NEK2	interacts with	PAZOPANIB
+NEK2	interacts with	TAMATINIB
+NEK2	interacts with	DACTOLISIB
+NEK2	interacts with	GW843682X
+NEK2	interacts with	CENISERTIB
+NEK2	interacts with	ADAVOSERTIB
+NEK2	interacts with	SP-600125
+NEK2	interacts with	GW441756X
+NEK2	interacts with	HESPERADIN
+NEK2	interacts with	ILORASERTIB
+NEK2	interacts with	DOVITINIB
+NEK2	interacts with	CHEMBL:CHEMBL1997335
+MMP1	interacts with	IMMUNOSUPPRESSANT
+MMP1	interacts with	TRIAMCINOLONE
+MMP1	interacts with	RIBAVIRIN
+MMP1	interacts with	TYROSINE KINASE INHIBITOR
+MMP1	interacts with	LEUPROLIDE ACETATE
+MMP1	interacts with	SIROLIMUS
+MMP1	interacts with	LAMIVUDINE
+MMP1	interacts with	PENTOSAN POLYSULFATE SODIUM
+MMP1	interacts with	VITAMIN E
+MMP1	interacts with	COBALT
+MMP1	interacts with	DOXYCYCLINE ANHYDROUS
+MMP1	interacts with	INTERFERON BETA
+MMP1	interacts with	MEDROXYPROGESTERONE
+MMP1	interacts with	DOXYCYCLINE CALCIUM
+MMP1	interacts with	HYDROCORTISONE BUTYRATE
+MMP1	interacts with	REBIMASTAT
+MMP1	interacts with	MARIMASTAT
+MMP1	interacts with	COLLAGENASE CLOSTRIDIUM HISTOLYTICUM
+MMP1	interacts with	THERAPEUTIC GLUCOCORTICOID
+MMP1	interacts with	LEFLUNOMIDE
+ACTA2	interacts with	[125I]CCL7 (HUMAN)
+ACTA2	interacts with	INCB3284
+ACTA2	interacts with	CCL7
+ACTA2	interacts with	CCL24
+ACTA2	interacts with	SB-282241
+ACTA2	interacts with	RS-504393
+ACTA2	interacts with	VMIP-II
+ACTA2	interacts with	COMPOUND 39 [PMID: 31742400]
+ACTA2	interacts with	VCCL4
+ACTA2	interacts with	CCR2-RA-[R]
+ACTA2	interacts with	ILACIRNON
+ACTA2	interacts with	RS-102895
+ACTA2	interacts with	CCL11
+ACTA2	interacts with	TEIJIN-LEAD_CMP_5
+ACTA2	interacts with	CCL26
+ACTA2	interacts with	CCL13
+ACTA2	interacts with	TAK-779
+ACTA2	interacts with	MC148R
+ACTA2	interacts with	PF-04634817
+ACTA2	interacts with	INCB8761
+ACTA2	interacts with	[125I]CCL2 (HUMAN)
+ACTA2	interacts with	BMS-753426
+ACTA2	interacts with	BMS-681
+ACTA2	interacts with	PLOZALIZUMAB
+ACTA2	interacts with	CCL16
+ACTA2	interacts with	GSK COMPOUND 34
+ACTA2	interacts with	BMS-741672
+ACTA2	interacts with	RS-136270
+ACTA2	interacts with	HIV-TAT
+ACTA2	interacts with	JNJ-27141491
+ACTA2	interacts with	CCL2
+ACTA2	interacts with	CCL8
+ACTA2	interacts with	AZD2423
+GFRA1	interacts with	ANTISENSE OLIGONUCLEOTIDES
+GFRA1	interacts with	LIATERMIN
+RET	interacts with	BOS-589
+RET	interacts with	TAMATINIB
+RET	interacts with	ROMIPLOSTIM
+RET	interacts with	RET INHIBITOR HS-10365
+RET	interacts with	NERVE GROWTH FACTOR
+RET	interacts with	VEPAFESTINIB
+RET	interacts with	LENVATINIB
+RET	interacts with	ALECTINIB
+RET	interacts with	HESPERADIN
+RET	interacts with	SORAFENIB
+RET	interacts with	CABOZANTINIB S-MALATE
+RET	interacts with	LINIFANIB
+RET	interacts with	SAPANISERTIB
+RET	interacts with	GENISTEIN
+RET	interacts with	AMUVATINIB
+RET	interacts with	EVEROLIMUS
+RET	interacts with	SNS-314
+RET	interacts with	SB220025
+RET	interacts with	JAK2 INHIBITOR AZD1480
+RET	interacts with	RET INHIBITOR EP0031
+RET	interacts with	QUIZARTINIB
+RET	interacts with	SITRAVATINIB
+RET	interacts with	SP-600125
+RET	interacts with	TRETINOIN
+RET	interacts with	AGERAFENIB
+RET	interacts with	ILORASERTIB
+RET	interacts with	TETRADECANOYLPHORBOL ACETATE
+RET	interacts with	GSK-3179106
+RET	interacts with	CP-547632
+RET	interacts with	PF-562271
+RET	interacts with	PALBOCICLIB
+RET	interacts with	OMIPALISIB
+RET	interacts with	AGERAFENIB
+RET	interacts with	RET INHIBITOR FHND5071
+RET	interacts with	LESTAURTINIB
+RET	interacts with	TRAMETINIB DIMETHYL SULFOXIDE
+RET	interacts with	ALISERTIB
+RET	interacts with	NVP-TAE684
+RET	interacts with	DOVITINIB
+RET	interacts with	IMATINIB
+RET	interacts with	ERLOTINIB
+RET	interacts with	RET INHIBITOR SY-5007
+RET	interacts with	PAZOPANIB
+RET	interacts with	TANESPIMYCIN
+RET	interacts with	MOTESANIB
+RET	interacts with	ENTRECTINIB
+RET	interacts with	CHEMBL:CHEMBL1997335
+RET	interacts with	MITOQUINONE MESYLATE
+RET	interacts with	ALECTINIB HYDROCHLORIDE
+RET	interacts with	JNJ-7706621
+RET	interacts with	CEDIRANIB
+RET	interacts with	ZM447439
+RET	interacts with	CHEMBL:CHEMBL546797
+RET	interacts with	REGORAFENIB
+RET	interacts with	PRALSETINIB
+RET	interacts with	LAPATINIB
+RET	interacts with	AST-487
+RET	interacts with	NINTEDANIB ESYLATE
+RET	interacts with	RG-1530
+RET	interacts with	AZD1480
+RET	interacts with	RET INHIBITOR TY-1091
+RET	interacts with	CENISERTIB
+RET	interacts with	BARASERTIB
+RET	interacts with	RECOMBINANT CHEMOKINE
+RET	interacts with	AT9283
+RET	interacts with	DEXAMETHASONE
+RET	interacts with	ENMD-2076
+RET	interacts with	PD-0166285
+RET	interacts with	ENBEZOTINIB
+RET	interacts with	BARASERTIB-HQPA
+RET	interacts with	CEP-2563 DIHYDROCHLORIDE
+RET	interacts with	VOLASERTIB
+RET	interacts with	VANDETANIB
+RET	interacts with	TYROSINE KINASE INHIBITOR
+RET	interacts with	TOZASERTIB
+RET	interacts with	PONATINIB
+RET	interacts with	GW441756X
+RET	interacts with	SELPERCATINIB
+RET	interacts with	RET INHIBITOR APS03118
+RET	interacts with	HISTONE DEACETYLASE INHIBITOR
+RET	interacts with	CYC-116
+RET	interacts with	SUNITINIB
+NAT1	interacts with	CISAPRIDE
+NAT1	interacts with	PRUCALOPRIDE
+NAT1	interacts with	PF-04995274
+NAT1	interacts with	TEGASEROD
+NAT1	interacts with	ML 10302
+NAT1	interacts with	RELENOPRIDE
+NAT1	interacts with	[11C]SB207145
+NAT1	interacts with	SB 207710
+NAT1	interacts with	TROPISETRON
+NAT1	interacts with	TD-8954
+NAT1	interacts with	BIMU 8
+NAT1	interacts with	RS 100235
+NAT1	interacts with	5-HYDROXYTRYPTAMINE
+NAT1	interacts with	BIMU 1
+NAT1	interacts with	ML 10375
+NAT1	interacts with	ASPIRIN
+NAT1	interacts with	COTININE
+NAT1	interacts with	SB 203186
+NAT1	interacts with	[3H]GR 113808
+NAT1	interacts with	DAU 6285
+NAT1	interacts with	VELUSETRAG
+NAT1	interacts with	GR 113808
+NAT1	interacts with	GR 125487
+NAT1	interacts with	SB 204070
+NAT1	interacts with	VILAZODONE HYDROCHLORIDE
+NAT1	interacts with	RS 67333
+NAT1	interacts with	CAPESEROD
+NAT1	interacts with	&ALPHA;-METHYL-5-HT
+NAT1	interacts with	MOSAPRIDE
+NAT1	interacts with	ZACOPRIDE
+NAT1	interacts with	RENZAPRIDE
+NAT1	interacts with	PIBOSEROD
+NAT1	interacts with	5-MEOT
+NAT1	interacts with	RS 39604
+NAT1	interacts with	THIOGUANINE
+NAT1	interacts with	MESALAMINE
+MMP7	interacts with	PRINOMASTAT
+MMP7	interacts with	DOXYCYCLINE CALCIUM
+MMP7	interacts with	ILOMASTAT
+MMP7	interacts with	MARIMASTAT
+MMP7	interacts with	DOXYCYCLINE ANHYDROUS
+MMP7	interacts with	SL422
+MMP7	interacts with	RS 39066
+FOSB	interacts with	ODANACATIB
+MELK	interacts with	MELK-TI
+MELK	interacts with	PP2
+MELK	interacts with	TOZASERTIB
+MELK	interacts with	GW843682X
+MELK	interacts with	JNJ-7706621
+MELK	interacts with	PF-562271
+MELK	interacts with	SP-600125
+MELK	interacts with	CC-401
+MELK	interacts with	CENISERTIB
+MELK	interacts with	NVP-TAE684
+MELK	interacts with	SNS-314
+MELK	interacts with	ILORASERTIB
+MELK	interacts with	BMS-387032
+MELK	interacts with	AST-487
+MELK	interacts with	MLN-8054
+MELK	interacts with	RG-1530
+MELK	interacts with	OTSSP167
+MELK	interacts with	SB220025
+MELK	interacts with	DOVITINIB
+MELK	interacts with	LINIFANIB
+RRM2	interacts with	HYDROXYUREA
+RRM2	interacts with	GALLIUM NITRATE
+RRM2	interacts with	GEMCITABINE ELAIDATE
+RRM2	interacts with	CLOFARABINE
+RRM2	interacts with	CYTARABINE
+RRM2	interacts with	TRANSFERRIN RECEPTOR-TARGETED ANTI-RRM2 SIRNA CALAA-01
+RRM2	interacts with	TEZACITABINE
+RRM2	interacts with	TRIAPINE
+RRM2	interacts with	GEMCITABINE
+RRM2	interacts with	CLADRIBINE
+RRM2	interacts with	LY-2334737
+RRM2	interacts with	FLUDARABINE
+RRM2	interacts with	MOTEXAFIN GADOLINIUM
+PGR	interacts with	LAPATINIB
+PGR	interacts with	PERTUZUMAB
+PGR	interacts with	PROGESTOGEN
+PGR	interacts with	TELAPRISTONE ACETATE
+PGR	interacts with	CYPROTERONE ACETATE
+PGR	interacts with	CHEMBL:CHEMBL2059711
+PGR	interacts with	GOSERELIN ACETATE
+PGR	interacts with	NORETHINDRONE ACETATE
+PGR	interacts with	OLAPARIB
+PGR	interacts with	EXEMESTANE
+PGR	interacts with	DESOGESTREL
+PGR	interacts with	DOCETAXEL ANHYDROUS
+PGR	interacts with	MIFEPRISTONE
+PGR	interacts with	TOREMIFENE
+PGR	interacts with	NERATINIB
+PGR	interacts with	DANAZOL
+PGR	interacts with	ABEMACICLIB
+PGR	interacts with	LONAPRISAN
+PGR	interacts with	NOMEGESTROL ACETATE
+PGR	interacts with	NORETHINDRONE
+PGR	interacts with	TAMOXIFEN
+PGR	interacts with	LEVONORGESTREL
+PGR	interacts with	MEDROXYPROGESTERONE ACETATE
+PGR	interacts with	ASOPRISNIL
+PGR	interacts with	SIROLIMUS
+PGR	interacts with	TRIMEGESTONE
+PGR	interacts with	PALBOCICLIB
+PGR	interacts with	CHLORMADINONE ACETATE
+PGR	interacts with	HYDROXYPROGESTERONE CAPROATE (USP)
+PGR	interacts with	SEGESTERONE ACETATE
+PGR	interacts with	MEDROXYPROGESTERONE
+PGR	interacts with	IXABEPILONE
+PGR	interacts with	MEGESTROL
+PGR	interacts with	ESTRADIOL VALERATE/DIENOGEST
+PGR	interacts with	PROGESTERONE
+PGR	interacts with	PROGESTIN
+PGR	interacts with	ANASTROZOLE
+PGR	interacts with	DYDROGESTERONE
+PGR	interacts with	TOSAGESTIN
+PGR	interacts with	ETHYNODIOL DIACETATE
+PGR	interacts with	ONAPRISTONE
+PGR	interacts with	ETHINYLESTRADIOL/DROSPIRENONE/PRASTERONE
+PGR	interacts with	TRASTUZUMAB
+PGR	interacts with	TELAPRISTONE
+PGR	interacts with	ALLYLESTRENOL
+PGR	interacts with	DIENOGEST
+PGR	interacts with	VILAPRISAN
+PGR	interacts with	NORGESTIMATE
+PGR	interacts with	MEGESTROL ACETATE
+PGR	interacts with	NORELGESTROMIN
+PGR	interacts with	NORETHYNODREL
+PGR	interacts with	ULIPRISTAL ACETATE
+PGR	interacts with	NORGESTREL
+PGR	interacts with	PF-05019702
+PGR	interacts with	DROSPIRENONE
+PGR	interacts with	ETONOGESTREL
+PGR	interacts with	ERIBULIN MESYLATE
+PGR	interacts with	RIBOCICLIB
+PGR	interacts with	NOMEGESTROL
+PGR	interacts with	FULVESTRANT
+PGR	interacts with	CRIDANIMOD SODIUM
+PGR	interacts with	GESTODENE
+PGR	interacts with	LETROZOLE
+FABP7	interacts with	BPKDI
+FABP7	interacts with	CRT 0066101
+PROM1	interacts with	ICT-121 DENDRITIC CELL VACCINE
+RARRES1	interacts with	TRETINOIN
+CYP2B7P	interacts with	STAUROSPORINE
+CYP2B6	interacts with	METHOTREXATE
+CYP2B6	interacts with	MONOAMINE OXIDASE INHIBITOR
+CYP2B6	interacts with	SIBUTRAMINE
+CYP2B6	interacts with	TRIMIPRAMINE
+CYP2B6	interacts with	TROFOSFAMIDE
+CYP2B6	interacts with	EMTRICITABINE/TENOFOVIR/EFAVIRENZ
+CYP2B6	interacts with	TICLOPIDINE
+CYP2B6	interacts with	MIDAZOLAM HYDROCHLORIDE
+CYP2B6	interacts with	MEPHENYTOIN
+CYP2B6	interacts with	AFLATOXIN B1
+CYP2B6	interacts with	METHADONE HYDROCHLORIDE
+CYP2B6	interacts with	CLOMIPRAMINE
+CYP2B6	interacts with	BICALUTAMIDE
+CYP2B6	interacts with	NEVIRAPINE
+CYP2B6	interacts with	CARBAMAZEPINE
+CYP2B6	interacts with	THIOTEPA
+CYP2B6	interacts with	HYDROCODONE
+CYP2B6	interacts with	PAREGORIC
+CYP2B6	interacts with	DOXEPIN HYDROCHLORIDE
+CYP2B6	interacts with	LEVONORGESTREL
+CYP2B6	interacts with	RECOMBINANT HEPATOCYTE GROWTH FACTOR
+CYP2B6	interacts with	3,4-METHYLENEDIOXYMETHAMPHETAMINE
+CYP2B6	interacts with	PYRAZINAMIDE
+CYP2B6	interacts with	TESTOSTERONE
+CYP2B6	interacts with	COLCHICINE
+CYP2B6	interacts with	VORICONAZOLE
+CYP2B6	interacts with	ETHAMBUTOL HYDROCHLORIDE
+CYP2B6	interacts with	PRASUGREL
+CYP2B6	interacts with	MEPERIDINE HYDROCHLORIDE
+CYP2B6	interacts with	SORAFENIB
+CYP2B6	interacts with	COTININE
+CYP2B6	interacts with	OXYCODONE
+CYP2B6	interacts with	ARTEMISININ
+CYP2B6	interacts with	BUTYLATED HYDROXYTOLUENE
+CYP2B6	interacts with	TYROSINE KINASE INHIBITOR
+CYP2B6	interacts with	OXYMORPHONE
+CYP2B6	interacts with	GENISTEIN
+CYP2B6	interacts with	ESMETHADONE
+CYP2B6	interacts with	ISONIAZID
+CYP2B6	interacts with	EFAVIRENZ
+CYP2B6	interacts with	HYDROMORPHONE HYDROCHLORIDE
+CYP2B6	interacts with	RIFAMPIN
+CYP2B6	interacts with	RITONAVIR
+CYP2B6	interacts with	IFOSFAMIDE
+CYP2B6	interacts with	O6-BENZYLGUANINE
+CYP2B6	interacts with	CLOPIDOGREL
+CYP2B6	interacts with	CYCLOPHOSPHAMIDE ANHYDROUS
+CYP2B6	interacts with	POLY IC
+CYP2B6	interacts with	DESIPRAMINE
+CYP2B6	interacts with	PHENOBARBITAL
+CYP2B6	interacts with	AMPHOTERICIN B LIPOSOMAL
+CYP2B6	interacts with	ETHINYL ESTRADIOL
+CYP2B6	interacts with	TAMOXIFEN
+CYP2B6	interacts with	ARTEMOTIL
+CYP2B6	interacts with	TENOFOVIR
+CYP2B6	interacts with	ARTEMETHER
+CYP2B6	interacts with	CHEMBL:CHEMBL530733
+CYP2B6	interacts with	MITOTANE
+CYP2B6	interacts with	FENTANYL CITRATE
+CYP2B6	interacts with	BUSULFAN
+CYP2B6	interacts with	LEVAMISOLE
+CYP2B6	interacts with	OSPEMIFENE
+CYP2B6	interacts with	SELEGILINE
+CYP2B6	interacts with	IMATINIB
+TOP2A	interacts with	CHEMBL:CHEMBL2171812
+TOP2A	interacts with	HURATOXIN
+TOP2A	interacts with	PACLITAXEL
+TOP2A	interacts with	FLUOROQUINOLONE
+TOP2A	interacts with	VALRUBICIN
+TOP2A	interacts with	MITOXANTRONE
+TOP2A	interacts with	ALDOXORUBICIN
+TOP2A	interacts with	GANCOTAMAB
+TOP2A	interacts with	MAKALUVAMINE C TFA SALT
+TOP2A	interacts with	SABARUBICIN
+TOP2A	interacts with	BERUBICIN HYDROCHLORIDE
+TOP2A	interacts with	DAUNORUBICIN HYDROCHLORIDE
+TOP2A	interacts with	CARINATIN G
+TOP2A	interacts with	L-377202
+TOP2A	interacts with	ADRIAMYCIN
+TOP2A	interacts with	DOXORUBICIN-ELUTING BEADS
+TOP2A	interacts with	RTA 744
+TOP2A	interacts with	OLEANDEROLIDE
+TOP2A	interacts with	C-1311
+TOP2A	interacts with	FLUOROQUINOLONE ANTIBIOTIC
+TOP2A	interacts with	NALIDIXIC ACID
+TOP2A	interacts with	PYRAZOLOACRIDINE
+TOP2A	interacts with	LUCANTHONE
+TOP2A	interacts with	13-DEOXYDOXORUBICIN
+TOP2A	interacts with	MYRICETIN
+TOP2A	interacts with	CHEMBL:CHEMBL244268
+TOP2A	interacts with	CHEMBL:CHEMBL594379
+TOP2A	interacts with	FRANGULIN B
+TOP2A	interacts with	MITOXANTRONE HYDROCHLORIDE
+TOP2A	interacts with	DIPHYLLIN
+TOP2A	interacts with	CHEMBL:CHEMBL607534
+TOP2A	interacts with	CHEMBL:CHEMBL594257
+TOP2A	interacts with	QUERCETIN
+TOP2A	interacts with	ETOPOSIDE TONIRIBATE
+TOP2A	interacts with	MAKALUVAMINE F
+TOP2A	interacts with	BERUBICIN
+TOP2A	interacts with	MAKALUVAMINE A
+TOP2A	interacts with	DIAZIRINE
+TOP2A	interacts with	ANNAMYCIN LIPOSOMAL
+TOP2A	interacts with	TAFLUPOSIDE
+TOP2A	interacts with	CHEMBL:CHEMBL594695
+TOP2A	interacts with	DTS-201
+TOP2A	interacts with	IDRONOXIL
+TOP2A	interacts with	MAKALUVAMINE E
+TOP2A	interacts with	4'-O-ACETYLPATENTIFLORIN B
+TOP2A	interacts with	CINOXACIN
+TOP2A	interacts with	DEMETHYLZEYLASTERONE
+TOP2A	interacts with	VINCRISTINE
+TOP2A	interacts with	ENOXACIN
+TOP2A	interacts with	HYDROQUINONE
+TOP2A	interacts with	CHEMBL:CHEMBL2332127
+TOP2A	interacts with	LYCOBETAINE
+TOP2A	interacts with	GRC-6211
+TOP2A	interacts with	LUPEOL
+TOP2A	interacts with	CHEMBL:CHEMBL594153
+TOP2A	interacts with	AMRUBICIN HYDROCHLORIDE
+TOP2A	interacts with	CHEMBL:CHEMBL1773343
+TOP2A	interacts with	CHEMBL:CHEMBL507986
+TOP2A	interacts with	CHEMBL:CHEMBL2332126
+TOP2A	interacts with	AMSACRINE
+TOP2A	interacts with	ELLIPTECINE
+TOP2A	interacts with	LOMEFLOXACIN
+TOP2A	interacts with	DOXORUBICIN-HPMA CONJUGATE
+TOP2A	interacts with	DOXORUBICIN-MAGNETIC TARGETED CARRIER COMPLEX
+TOP2A	interacts with	DEXRAZOXANE HYDROCHLORIDE
+TOP2A	interacts with	ETOPOSIDE PHOSPHATE
+TOP2A	interacts with	AMRUBICIN
+TOP2A	interacts with	DAUNORUBICIN CITRATE
+TOP2A	interacts with	DANIQUIDONE
+TOP2A	interacts with	CHEMBL:CHEMBL593570
+TOP2A	interacts with	KAEMPFERITRIN
+TOP2A	interacts with	ACLARUBICIN
+TOP2A	interacts with	ACRIDINE CARBOXAMIDE
+TOP2A	interacts with	CHEMBL:CHEMBL2171794
+TOP2A	interacts with	BETULIN
+TOP2A	interacts with	SIMOCYCLINONE D8
+TOP2A	interacts with	PIXANTRONE
+TOP2A	interacts with	FLUOROURACIL
+TOP2A	interacts with	ANTHRACYCLINE ANTINEOPLASTIC ANTIBIOTIC
+TOP2A	interacts with	BROXURIDINE
+TOP2A	interacts with	PODOFILOX
+TOP2A	interacts with	CAELYX
+TOP2A	interacts with	BECATECARIN
+TOP2A	interacts with	CHEMBL:CHEMBL2171781
+TOP2A	interacts with	CHEMBL:CHEMBL594259
+TOP2A	interacts with	DACTINOMYCIN
+TOP2A	interacts with	TIRAPAZAMINE
+TOP2A	interacts with	CHEMBL:CHEMBL2023733
+TOP2A	interacts with	ETOPOSIDE
+TOP2A	interacts with	DEXRAZOXANE
+TOP2A	interacts with	PAZUFLOXACIN
+TOP2A	interacts with	UNGEREMINE
+TOP2A	interacts with	NOVOBIOCIN
+TOP2A	interacts with	TENIPOSIDE
+TOP2A	interacts with	CAMPTOTHECIN
+TOP2A	interacts with	DAUNORUBICIN LIPOSOMAL
+TOP2A	interacts with	DOXORUBICIN HYDROCHLORIDE
+TOP2A	interacts with	ROSOXACIN
+TOP2A	interacts with	GENISTEIN
+TOP2A	interacts with	FISETIN
+TOP2A	interacts with	CHEMBL:CHEMBL2332128
+TOP2A	interacts with	ELSAMITRUCIN
+TOP2A	interacts with	SECAUBRYOLIDE
+TOP2A	interacts with	GEPOTIDACIN
+TOP2A	interacts with	IDARUBICIN
+TOP2A	interacts with	VOSAROXIN
+TOP2A	interacts with	FLEROXACIN
+TOP2A	interacts with	PEFLOXACIN
+TOP2A	interacts with	ELINAFIDE
+TOP2A	interacts with	TAS-103
+TOP2A	interacts with	EPIRUBICIN
+TOP2A	interacts with	AMONAFIDE
+TOP2A	interacts with	TRICITRINOL B
+TOP2A	interacts with	CHEMBL:CHEMBL1080077
+TOP2A	interacts with	NEMORUBICIN
+TOP2A	interacts with	CHEMBL:CHEMBL596082
+TOP2A	interacts with	DIGITOXIN
+CPB1	interacts with	METYRAPONE
+CPB1	interacts with	BAXDROSTAT
+CPB1	interacts with	OSILODROSTAT
+CPB1	interacts with	FADROZOLE
+ESR1	interacts with	ESTROGENS, CONJUGATED SYNTHETIC A
+ESR1	interacts with	TTC-352
+ESR1	interacts with	ALFATRADIOL
+ESR1	interacts with	BAZEDOXIFENE
+ESR1	interacts with	DAIDZEIN
+ESR1	interacts with	CATECHOL
+ESR1	interacts with	TRIAMTERENE
+ESR1	interacts with	BENZODODECINIUM CHLORIDE
+ESR1	interacts with	NORGESTREL
+ESR1	interacts with	BISPHENOL A
+ESR1	interacts with	PROGESTERONE
+ESR1	interacts with	DOCETAXEL ANHYDROUS
+ESR1	interacts with	ETHINYLESTRADIOL/DROSPIRENONE/PRASTERONE
+ESR1	interacts with	ESTETROL
+ESR1	interacts with	ESTROGEN
+ESR1	interacts with	PROPYLPYRAZOLETRIOL
+ESR1	interacts with	CHEMBL:CHEMBL184450
+ESR1	interacts with	SR16234
+ESR1	interacts with	CHEMBL:CHEMBL2313445
+ESR1	interacts with	DOMIPHEN BROMIDE
+ESR1	interacts with	CHEMBL:CHEMBL329673
+ESR1	interacts with	CLOMIPHENE CITRATE
+ESR1	interacts with	VINTAFOLIDE
+ESR1	interacts with	RALOXIFENE HYDROCHLORIDE
+ESR1	interacts with	NOMEGESTROL ACETATE
+ESR1	interacts with	ZERANOL
+ESR1	interacts with	DACTINOMYCIN
+ESR1	interacts with	1-HYDROXY-6-(4-HYDROXY-PHENYL)-1-PHENYL-HEXAN-3-ONE (ENANTIOMERIC MIX)
+ESR1	interacts with	GLYBURIDE
+ESR1	interacts with	TAS-108
+ESR1	interacts with	SULFENTRAZONE
+ESR1	interacts with	OXYTETRACYCLINE HYDROCHLORIDE
+ESR1	interacts with	EXEMESTANE
+ESR1	interacts with	ETHINYL ESTRADIOL
+ESR1	interacts with	ZIRAM
+ESR1	interacts with	CHEMBL:CHEMBL85826
+ESR1	interacts with	ENDOXIFEN
+ESR1	interacts with	GUGGULSTERONE
+ESR1	interacts with	MERCURIC CHLORIDE
+ESR1	interacts with	METHYLTESTOSTERONE
+ESR1	interacts with	DOXYCYCLINE ANHYDROUS
+ESR1	interacts with	OXYMETHOLONE
+ESR1	interacts with	GENISTEIN
+ESR1	interacts with	4-METHYLBENZOIC ACID METHYL ESTER
+ESR1	interacts with	GENTIAN VIOLET CATION
+ESR1	interacts with	CHLOROTRIANISENE
+ESR1	interacts with	HYDROXYPROGESTERONE
+ESR1	interacts with	PCC0105003
+ESR1	interacts with	METHOXSALEN
+ESR1	interacts with	DOXORUBICIN HYDROCHLORIDE
+ESR1	interacts with	CAPTAN
+ESR1	interacts with	DIENOGEST
+ESR1	interacts with	DAUNORUBICIN HYDROCHLORIDE
+ESR1	interacts with	BRILANESTRANT
+ESR1	interacts with	CUMENE HYDROPEROXIDE
+ESR1	interacts with	AMCENESTRANT
+ESR1	interacts with	COMPOUND 14 [PMID: 34333981]
+ESR1	interacts with	CHLORANIL
+ESR1	interacts with	CHEMBL:CHEMBL354663
+ESR1	interacts with	CHEMBL:CHEMBL1432305
+ESR1	interacts with	PALMITATE
+ESR1	interacts with	MASOPROCOL
+ESR1	interacts with	TRIS(2,3-DIBROMOPROPYL)PHOSPHATE
+ESR1	interacts with	LY2245461
+ESR1	interacts with	CAMPHOR OIL
+ESR1	interacts with	APIGENIN
+ESR1	interacts with	CHF 4227
+ESR1	interacts with	VITAMIN A
+ESR1	interacts with	SELECTIVE ESTROGEN RECEPTOR MODULATOR TAS-108
+ESR1	interacts with	AMI-1
+ESR1	interacts with	GLYCITEIN
+ESR1	interacts with	CADMIUM DICHLORIDE
+ESR1	interacts with	DIETHYLSTILBESTROL DIPROPIONATE
+ESR1	interacts with	MEDROXYPROGESTERONE
+ESR1	interacts with	CYCLOFENIL
+ESR1	interacts with	KEPONE
+ESR1	interacts with	CHOLECALCIFEROL
+ESR1	interacts with	PHENOLPHTHALEIN
+ESR1	interacts with	SELECTIVE ESTROGEN RECEPTOR COVALENT ANTAGONIST H3B-6545
+ESR1	interacts with	PCC0208017
+ESR1	interacts with	IODINE
+ESR1	interacts with	RESVERATROL
+ESR1	interacts with	NORELGESTROMIN
+ESR1	interacts with	CHEMBL:CHEMBL259327
+ESR1	interacts with	CHF4227
+ESR1	interacts with	DICHLOROPHEN
+ESR1	interacts with	CISPLATIN
+ESR1	interacts with	ACOLBIFENE
+ESR1	interacts with	ALACHLOR
+ESR1	interacts with	CHEMBL:CHEMBL503990
+ESR1	interacts with	ARSANILIC ACID
+ESR1	interacts with	HEXACHLOROPHENE
+ESR1	interacts with	ACRYLAMIDE
+ESR1	interacts with	TESTOSTERONE PROPIONATE
+ESR1	interacts with	SACITUZUMAB GOVITECAN
+ESR1	interacts with	SIVIFENE
+ESR1	interacts with	N-PROPYL BROMIDE
+ESR1	interacts with	CAPIVASERTIB
+ESR1	interacts with	ELACESTRANT HYDROCHLORIDE
+ESR1	interacts with	FOSFESTROL
+ESR1	interacts with	METHIOCARB
+ESR1	interacts with	ALFADEX
+ESR1	interacts with	GIREDESTRANT
+ESR1	interacts with	PENTABROMOPHENOL
+ESR1	interacts with	PUERARIN
+ESR1	interacts with	CAMIZESTRANT
+ESR1	interacts with	MONOETHANOLAMINE
+ESR1	interacts with	COMPOUND 17D [PMID: 23099093]
+ESR1	interacts with	GUTHION
+ESR1	interacts with	LAPATINIB
+ESR1	interacts with	PYRITHIONE ZINC
+ESR1	interacts with	MK-6913
+ESR1	interacts with	NERATINIB
+ESR1	interacts with	CETRIMONIUM BROMIDE
+ESR1	interacts with	HORMONE THERAPY AGENT
+ESR1	interacts with	4-NONYLPHENOL
+ESR1	interacts with	ICI-164384
+ESR1	interacts with	ALLYLESTRENOL
+ESR1	interacts with	LEVONORGESTREL
+ESR1	interacts with	GOSSYPOL
+ESR1	interacts with	FISPEMIFENE
+ESR1	interacts with	FAM-TRASTUZUMAB DERUXTECAN-NXKI
+ESR1	interacts with	PHENYLMERCURIC ACETATE
+ESR1	interacts with	COUMESTROL
+ESR1	interacts with	METHYLISOTHIOCYANATE
+ESR1	interacts with	KAEMPHEROL
+ESR1	interacts with	TAMOXIFEN CITRATE
+ESR1	interacts with	TRIADIMEFON
+ESR1	interacts with	IXABEPILONE
+ESR1	interacts with	BITHIONOL
+ESR1	interacts with	CHEMBL:CHEMBL2071180
+ESR1	interacts with	BENZETHONIUM CHLORIDE
+ESR1	interacts with	METHAMPHETAMINE
+ESR1	interacts with	RIBOCICLIB
+ESR1	interacts with	ZEARALENONE
+ESR1	interacts with	CHEMBL:CHEMBL384441
+ESR1	interacts with	OSPEMIFENE
+ESR1	interacts with	STANOLONE
+ESR1	interacts with	NORGESTIMATE
+ESR1	interacts with	MITOTANE
+ESR1	interacts with	PROPYLPARABEN
+ESR1	interacts with	PROMESTRIENE
+ESR1	interacts with	LEFLUNOMIDE
+ESR1	interacts with	ACETOCHLOR
+ESR1	interacts with	PROTOAPIGENONE
+ESR1	interacts with	CHEMBL:CHEMBL2313444
+ESR1	interacts with	ENDOSULFAN
+ESR1	interacts with	CHEMBL:CHEMBL1523215
+ESR1	interacts with	ANASTROZOLE
+ESR1	interacts with	ABEMACICLIB
+ESR1	interacts with	PERTUZUMAB
+ESR1	interacts with	ORTHOTOLIDINE
+ESR1	interacts with	DIENESTROL
+ESR1	interacts with	SYNTHETIC CONJUGATED ESTROGENS, A
+ESR1	interacts with	OLAPARIB
+ESR1	interacts with	IDOXIFENE
+ESR1	interacts with	ALL-TRANS-RETINAL
+ESR1	interacts with	DESOGESTREL
+ESR1	interacts with	TRASTUZUMAB
+ESR1	interacts with	ARZOXIFENE
+ESR1	interacts with	TOREMIFENE
+ESR1	interacts with	ESTROPIPATE
+ESR1	interacts with	PHENAZOPYRIDINE HYDROCHLORIDE
+ESR1	interacts with	CLOMIPHENE
+ESR1	interacts with	13-CIS-RETINAL
+ESR1	interacts with	PYROGALLOL
+ESR1	interacts with	ICARITIN
+ESR1	interacts with	MEGESTROL
+ESR1	interacts with	HYDRAMETHYLNON
+ESR1	interacts with	GTX-758
+ESR1	interacts with	GOSERELIN ACETATE
+ESR1	interacts with	4-TRIETHYLGERMYLPHENOL
+ESR1	interacts with	LASOFOXIFENE
+ESR1	interacts with	PROPACHLOR
+ESR1	interacts with	ENCLOMIPHENE
+ESR1	interacts with	RALOXIFEN
+ESR1	interacts with	ELACESTRANT
+ESR1	interacts with	TRIPHENYLSTANNANOL
+ESR1	interacts with	SELECTIVE ESTROGEN RECEPTOR DEGRADER AZD9496
+ESR1	interacts with	OCHRATOXIN A
+ESR1	interacts with	QUINESTROL
+ESR1	interacts with	ETHYNODIOL DIACETATE
+ESR1	interacts with	ALPELISIB
+ESR1	interacts with	GW7647
+ESR1	interacts with	POLYESTRADIOL PHOSPHATE
+ESR1	interacts with	PALBOCICLIB
+ESR1	interacts with	PHENYLALANINE
+ESR1	interacts with	TAMOXIFEN
+ESR1	interacts with	ESTRADIOL CYPIONATE
+ESR1	interacts with	MESTRANOL
+ESR1	interacts with	DANAZOL
+ESR1	interacts with	BAZEDOXIFENE ACETATE
+ESR1	interacts with	DROLOXIFENE
+ESR1	interacts with	DIETHYLSTILBESTROL
+ESR1	interacts with	ETHYLENEDIAMINE
+ESR1	interacts with	ESTRONE
+ESR1	interacts with	TESTOSTERONE
+ESR1	interacts with	AFIMOXIFENE
+ESR1	interacts with	GESTRINONE
+ESR1	interacts with	ESTRADIOL VALERATE
+ESR1	interacts with	LASOFOXIFENE TARTRATE
+ESR1	interacts with	FENRETINIDE
+ESR1	interacts with	ETONOGESTREL
+ESR1	interacts with	BORIC ACID
+ESR1	interacts with	ESTROGENS, CONJUGATED (USP)
+ESR1	interacts with	ALOE-EMODIN
+ESR1	interacts with	CHEMBL:CHEMBL1091137
+ESR1	interacts with	SELECTIVE ESTROGEN RECEPTOR MODULATOR CC-8490
+ESR1	interacts with	SYNTHETIC CONJUGATED ESTROGENS, B
+ESR1	interacts with	LETROZOLE
+ESR1	interacts with	ESTROGENS, ESTERIFIED (USP)
+ESR1	interacts with	FULVESTRANT
+ESR1	interacts with	EVEROLIMUS
+ESR1	interacts with	DIETHYLSTILBESTROL DIPHOSPHATE
+ESR1	interacts with	ERIBULIN MESYLATE
+ESR1	interacts with	ESTRIOL
+FN1	interacts with	AS1409
+FN1	interacts with	L19SIP 131I
+FN1	interacts with	OCRIPLASMIN
+FN1	interacts with	DACARBAZINE
+FN1	interacts with	AS-1409
+FN1	interacts with	L19IL2
+FN1	interacts with	MU-BC-1
+FN1	interacts with	SUTIMLIMAB
+FN1	interacts with	DAROMUN
+FN1	interacts with	RADRETUMAB
+FN1	interacts with	L19TNFA
+FN1	interacts with	COMPOUND 28 [PMID: 16460935]
+FN1	interacts with	ONFEKAFUSP ALFA
+NTRK2	interacts with	SNS-314
+NTRK2	interacts with	SELITRECTINIB
+NTRK2	interacts with	ILORASERTIB
+NTRK2	interacts with	LAROTRECTINIB
+NTRK2	interacts with	GW441756X
+NTRK2	interacts with	LAROTRECTINIB SULFATE
+NTRK2	interacts with	MK-2461
+NTRK2	interacts with	SP-600125
+NTRK2	interacts with	RG-1530
+NTRK2	interacts with	DOVITINIB
+NTRK2	interacts with	TOZASERTIB
+NTRK2	interacts with	ALISERTIB
+NTRK2	interacts with	ALTIRATINIB
+NTRK2	interacts with	JNJ-7706621
+NTRK2	interacts with	CENISERTIB
+NTRK2	interacts with	PF-562271
+NTRK2	interacts with	LAUROGUADINE
+NTRK2	interacts with	GAMBOGIC AMIDE
+NTRK2	interacts with	CEP-2563 DIHYDROCHLORIDE
+NTRK2	interacts with	TALETRECTINIB
+NTRK2	interacts with	LESTAURTINIB
+NTRK2	interacts with	HESPERADIN
+NTRK2	interacts with	PILOCARPINE HYDROCHLORIDE
+NTRK2	interacts with	BMS-754807
+NTRK2	interacts with	SB202190
+NTRK2	interacts with	AST-487
+NTRK2	interacts with	METHADONE HYDROCHLORIDE
+NTRK2	interacts with	PLX-7486
+NTRK2	interacts with	ZM447439
+NTRK2	interacts with	CISPLATIN
+NTRK2	interacts with	CORTICOTROPIN
+NTRK2	interacts with	CHEMBL:CHEMBL546797
+NTRK2	interacts with	GW-2580
+NTRK2	interacts with	UTATRECTINIB
+NTRK2	interacts with	DOXORUBICIN HYDROCHLORIDE
+NTRK2	interacts with	CRIZOTINIB
+NTRK2	interacts with	REPOTRECTINIB
+NTRK2	interacts with	LITHIUM
+NTRK2	interacts with	SORAFENIB
+NTRK2	interacts with	PD-0166285
+NTRK2	interacts with	TAMATINIB
+NTRK2	interacts with	ENTRECTINIB
+NTRK2	interacts with	AZD-6918
+NTRK2	interacts with	DORAMAPIMOD
+NTRK2	interacts with	LINIFANIB
+NTRK2	interacts with	CENEGERMIN
+NTRK2	interacts with	DIETHYLDITHIOCARBAMATE
+NTRK2	interacts with	CLOZAPINE
+NTRK2	interacts with	CYCLOSPORINE
+BBOX1	interacts with	THIRAM
+BBOX1	interacts with	BENZENE SELENOIC ACID
+BBOX1	interacts with	EBSELEN
+GABRP	interacts with	QUAZEPAM
+GABRP	interacts with	NITRAZEPAM
+GABRP	interacts with	BREXANOLONE
+GABRP	interacts with	ANTIDEPRESSANT AGENT
+GABRP	interacts with	CLOBAZAM
+GABRP	interacts with	ISOFLURANE
+GABRP	interacts with	TOPIRAMATE
+GABRP	interacts with	CHLORDIAZEPOXIDE HYDROCHLORIDE
+GABRP	interacts with	ADINAZOLAM
+GABRP	interacts with	FLUMAZENIL
+GABRP	interacts with	DARIGABAT
+GABRP	interacts with	TALBUTAL
+GABRP	interacts with	CINOLAZEPAM
+GABRP	interacts with	IMEPITOIN
+GABRP	interacts with	PROPOFOL
+GABRP	interacts with	OXAZEPAM
+GABRP	interacts with	GANAXOLONE
+GABRP	interacts with	CENOBAMATE
+GABRP	interacts with	OCINAPLON
+GABRP	interacts with	TEMAZEPAM
+GABRP	interacts with	MIDAZOLAM HYDROCHLORIDE
+GABRP	interacts with	CLOTIAZEPAM
+GABRP	interacts with	PRAZEPAM
+GABRP	interacts with	[3H]AZIETOMIDATE
+GABRP	interacts with	PRIMIDONE
+GABRP	interacts with	PAGOCLONE
+GABRP	interacts with	ACAMPROSATE CALCIUM
+GABRP	interacts with	METHOHEXITAL SODIUM
+GABRP	interacts with	RESEQUINIL
+GABRP	interacts with	METHYPRYLON
+GABRP	interacts with	DESFLURANE
+GABRP	interacts with	ADIPIPLON
+GABRP	interacts with	METHAQUALONE HYDROCHLORIDE
+GABRP	interacts with	REMIMAZOLAM BESYLATE
+GABRP	interacts with	METHARBITAL
+GABRP	interacts with	FLURAZEPAM
+GABRP	interacts with	SECOBARBITAL SODIUM
+GABRP	interacts with	GABOXADOL
+GABRP	interacts with	ADIPIPLON
+GABRP	interacts with	ETIFOXINE
+GABRP	interacts with	LOREDIPLON
+GABRP	interacts with	CIPEPOFOL
+GABRP	interacts with	TETRAZEPAM
+GABRP	interacts with	ZURANOLONE
+GABRP	interacts with	ABP-700
+GABRP	interacts with	GLUTETHIMIDE
+GABRP	interacts with	BUTALBITAL
+GABRP	interacts with	ESZOPICLONE
+GABRP	interacts with	PENTOBARBITAL SODIUM
+GABRP	interacts with	SEVOFLURANE
+GABRP	interacts with	TRICLOFOS SODIUM
+GABRP	interacts with	DIAZEPAM
+GABRP	interacts with	CLORAZEPATE DIPOTASSIUM
+GABRP	interacts with	ETOMIDATE
+GABRP	interacts with	MEPROBAMATE
+GABRP	interacts with	FLUNITRAZEPAM
+GABRP	interacts with	HALOTHANE
+GABRP	interacts with	FLUDIAZEPAM
+GABRP	interacts with	REMIMAZOLAM
+GABRP	interacts with	FLURAZEPAM HYDROCHLORIDE
+GABRP	interacts with	PADSEVONIL
+GABRP	interacts with	THIAMYLAL SODIUM
+GABRP	interacts with	ETHCHLORVYNOL
+GABRP	interacts with	CHLORDIAZEPOXIDE
+GABRP	interacts with	CHLORMETHIAZOLE
+GABRP	interacts with	EVT 201
+GABRP	interacts with	VENLAFAXINE
+GABRP	interacts with	METHOXYFLURANE
+GABRP	interacts with	CLONAZEPAM
+GABRP	interacts with	BROMAZEPAM
+GABRP	interacts with	HALAZEPAM
+GABRP	interacts with	THIOPENTAL SODIUM
+GABRP	interacts with	ENFLURANE
+GABRP	interacts with	TRIAZOLAM
+GABRP	interacts with	METHAQUALONE
+GABRP	interacts with	CLORAZEPATE
+GABRP	interacts with	LORAZEPAM
+GABRP	interacts with	BUTABARBITAL SODIUM
+GABRP	interacts with	ALPRAZOLAM
+GABRP	interacts with	ESTAZOLAM
